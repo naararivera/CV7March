@@ -1,0 +1,13 @@
+#miFoto{
+    border-radius: 50%;
+}
+
+a:link{
+    color:#FF8AAE;
+}
+a:visited{
+    color: #FFB2A6;
+}
+a:hover{
+    color: #9ADCFF;
+}
